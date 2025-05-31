@@ -45,7 +45,7 @@ Aprendiendo técnicas de machine learning como regresión y clasificación con h
 
 - 📧 ignaciomelinc@gmail.com  
 - 🌐 [GitHub](https://github.com/imelinc)
-- 💼 [LikedIn](www.linkedin.com/in/ignacio-melinc-6552aa2b6)
+- 💼 [LinkedIn](www.linkedin.com/in/ignacio-melinc-6552aa2b6)
 
 ---
 
