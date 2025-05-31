@@ -49,5 +49,3 @@ Aprendiendo técnicas de machine learning como regresión y clasificación con h
 
 ---
 
-> “El aprendizaje constante es el motor del crecimiento profesional.”
-
