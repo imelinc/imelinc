@@ -1,18 +1,20 @@
-# 👋 ¡Hola! Soy Ignacio Melinc
+
+
+
+# 👋 Hola! Soy Ignacio Melinc
 
 🎓 Estudiante de **Ingeniería Informática**  
-📍 Buenos Aires | 📅 Graduación esperada: 2027  
-📊 Apasionado por la programación, el análisis de datos y el aprendizaje automático  
-💬 Inglés: Avanzado
+📍 Buenos Aires  
+📊 Apasionado por la programación, el análisis de datos y machine learning
 
----
 
-## 🚀 Sobre mí
+
+
+
+## 🚀 Sobre Mi
 
 Soy un estudiante de ingeniería informática con una fuerte motivación por aprender y crecer profesionalmente. Tengo experiencia práctica en proyectos de análisis de datos y conocimientos sólidos en programación orientada a objetos, estructuras de datos, y ciencia de datos.  
 Disfruto enfrentando nuevos desafíos y trabajando en equipo.
-
----
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -21,30 +23,20 @@ Disfruto enfrentando nuevos desafíos y trabajando en equipo.
 - **Bases de datos:** SQL Server
 - **Conceptos:** Programación orientada a objetos, estructuras de datos, algoritmos
 - **Herramientas:** GitHub, Jupyter Notebook, Visual Studio Code
+## 🧪 Proyectos Destacados
 
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imelinc&repo=EDA-project-I)](https://github.com/imelinc/EDA-project-I)
 
-## 🧪 Proyectos destacados
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imelinc&repo=housing-prices-project)](https://github.com/imelinc/housing-prices-project)
 
-🔍 **EDA Project I**  
-Análisis exploratorio de datos usando un dataset de películas y series de Netflix.  
-Utilicé **Pandas** y **Matplotlib** para visualizar tendencias, géneros, distribución por país, duración, etc.  
-📎 [Repositorio del proyecto](https://github.com/imelinc/eda-project-I)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imelinc&repo=heart-disease-project)](https://github.com/imelinc/heart-disease-project)
+## 📊 Stats
 
-🔍 **Housing Prices Project**  
-Proyecto de machine learning donde se predicen precios de casas segun un dataset de Boston Housing Prices, mediante regresión.
-Utilicé **Pandas**, **Matplotlib**, **Scikit-learn**, etc. para lograr visualizar distribuciones y correlaciones, ademas de construir los modelos de machine learning con scikit learn.  
-📎 [Repositorio del proyecto](https://github.com/imelinc/housing-project)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imelinc&theme=dark)](https://git.io/streak-stats)
 
-🎓 **Data Science & Machine Learning Bootcamp – Udemy (En curso)**  
-Aprendiendo técnicas de machine learning como regresión y clasificación con herramientas como Scikit-learn.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imelinc&layout=compact)
+## 🔗 Contacto
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-melinc-6552aa2b6/) 
 
----
-
-## 📫 Contacto
-
-- 📧 ignaciomelinc@gmail.com  
-- 🌐 [GitHub](https://github.com/imelinc)
-
----
+[![Gmail](https://img.shields.io/badge/Gmail-iganciomelinc?logo=Gmail&logoColor=%23FFFFFF&color=%23EA4335)](mailto:ignaciomelinc@gmail.com)
 
