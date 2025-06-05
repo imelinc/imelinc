@@ -47,3 +47,6 @@ I enjoy facing new challenges and working as part of a team. Currently, I'm inte
 
 <!-- Optional: A personal note -->
 *Always ready for new challenges 🚀*
+
+---
+👉 [Ver este README en español](./README.md)
