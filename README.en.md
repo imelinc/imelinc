@@ -1,3 +1,5 @@
+![Banner](./banner-github.png)
+
 # 👋 Hi there! I'm Ignacio Melinc
 
 🎓 Software Engineering Student  
