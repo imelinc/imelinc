@@ -1,3 +1,5 @@
+![Banner](./banner-github.png)
+
 # 👋 ¡Hola! Soy Ignacio Melinc
 
 🎓 Estudiante de **Ingeniería Informática**  
