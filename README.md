@@ -35,8 +35,12 @@ Me gusta enfrentar nuevos desafíos y trabajar en equipo. Actualmente, me intere
 
 ## 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imelinc&theme=dark)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imelinc&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imelinc&theme=monokai-metallian&hide_border=true&border_radius=7&mode=weekly)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imelinc&layout=compact&bg_color=23243a&title_color=ffe7ad&text_color=ffb6cb&icon_color=ffe7ad&hide_border=true)
+
+
+
 
 ---
 
