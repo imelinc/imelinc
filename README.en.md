@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 I'm a software engineering student highly motivated to learn and grow professionally. I have hands-on experience in data analysis projects and a solid background in object-oriented programming, data structures, and data science.  
-I enjoy facing new challenges and working as part of a team. Currently, I'm interested in deepening my knowledge in artificial intelligence and big data.
+I enjoy facing new challenges and working as part of a team. Currently, I'm interested in deepening my knowledge in artificial intelligence.
 
 ---
 
@@ -21,7 +21,7 @@ I enjoy facing new challenges and working as part of a team. Currently, I'm inte
 - **Data Science & ML:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases:** SQL Server
 - **Concepts:** Object-oriented programming, data structures, algorithms
-- **Tools:** Git, GitHub, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA
+- **Tools:** GitHub, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA
 
 ---
 
