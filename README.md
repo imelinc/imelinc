@@ -21,7 +21,7 @@ Me gusta enfrentar nuevos desafíos y trabajar en equipo. Actualmente, me intere
 - **Ciencia de datos & ML:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **Bases de datos:** SQL Server
 - **Conceptos:** Programación orientada a objetos, estructuras de datos, algoritmos
-- **Herramientas:** Git, GitHub, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA
+- **Herramientas:** GitHub, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA
 
 ---
 
