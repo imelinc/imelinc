@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí
 
 Soy un estudiante de Ingeniería Informática con una fuerte motivación por aprender y crecer profesionalmente. Tengo experiencia práctica en proyectos de análisis de datos y conocimientos sólidos en programación orientada a objetos, estructuras de datos y ciencia de datos.  
-Me gusta enfrentar nuevos desafíos y trabajar en equipo. Actualmente, me interesa seguir profundizando en inteligencia artificial y big data.
+Me gusta enfrentar nuevos desafíos y trabajar en equipo. Actualmente, me interesa seguir profundizando en inteligencia artificial.
 
 ---
 
