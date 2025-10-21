@@ -8,7 +8,7 @@
   📰 <a href="https://github.com/imelinc/DailyNewsBot">DailyNewsBot</a> •  
   🤖 <a href="https://github.com/imelinc/Promptify">Promptify</a> •  
   📄 <a href="https://github.com/imelinc/AskMyDocs">AskMyDocs</a> •  
-  🧾 <a href="https://github.com/imelinc/DocuFlow">DocuFlow</a> •  
+  🤖 <a href="https://github.com/imelinc/NovaLex">NovaLex</a> •  
   👨‍💻 <a href="https://github.com/imelinc?tab=repositories">Más proyectos</a>
 </p>
 
