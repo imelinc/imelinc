@@ -1,62 +1,78 @@
-<h1 align="center">Hola! Soy Ignacio Melinc 👋</h1>
-<h3 align="center">Estudiante de Ingeniería Informática | Entusiasta de AWS ☁️</h3>
+<div align="center">
+
+# 👋 Ignacio Melinc
+
+### Estudiante de Ingeniería Informática | Entusiasta de AWS Cloud ☁️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-melinc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciomelinc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imelinc)
+
+</div>
 
 ---
 
-### 🚀 Proyectos Destacados
-<p align="center">
-  📰 <a href="https://github.com/imelinc/DailyNewsBot">DailyNewsBot</a> •  
-  🤖 <a href="https://github.com/imelinc/Promptify">Promptify</a> •  
-  📄 <a href="https://github.com/imelinc/AskMyDocs">AskMyDocs</a> •  
-  🤖 <a href="https://github.com/imelinc/NovaLex">NovaLex</a> •  
-  👨‍💻 <a href="https://github.com/imelinc?tab=repositories">Más proyectos</a>
-</p>
+## 🎯 Sobre Mí
+
+Desarrollando aplicaciones cloud-native y explorando soluciones potenciadas por IA. Actualmente ampliando mi experiencia en la nube mientras trabajo en proyectos innovadores que combinan automatización, inteligencia y escalabilidad.
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack Tecnológico |
+|---------|-------------|-------------------|
+| **[NovaLex](https://github.com/imelinc/NovaLex)** | Chatbot con IA integrada y despliegue en AWS CloudFront | React, AWS Lambda, API Gateway |
+| **[DailyNewsBot](https://github.com/imelinc/DailyNewsBot)** | Sistema automatizado de agregación y entrega de noticias | Python, AWS |
+| **[Promptify](https://github.com/imelinc/Promptify)** | Herramienta de optimización de prompts de IA | Python, AI/ML |
+| **[AskMyDocs](https://github.com/imelinc/AskMyDocs)** | Sistema de preguntas y respuestas sobre documentos con búsqueda inteligente | Python, NLP |
+
+[→ Ver todos los proyectos](https://github.com/imelinc?tab=repositories)
+
+## ☁️ Cursos AWS
+✅ AWS Cloud Practitioner  
+✅ AWS AI Practitioner  
+⏰ AWS Solutions Architect  
+
+
+## 💻 Stack Tecnológico
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Lenguajes de Programación**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Librerías**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs?username=imelinc&show_icons=true&locale=es&layout=compact&theme=default&hide_border=true)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imelinc&show_icons=true&locale=es&theme=default&hide_border=true)
+
+![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=imelinc&theme=default&hide_border=true&locale=es)
+
+</div>
 
 ---
 
-### 📚 Formación
-<p align="center">
-  ☁️ AWS Cloud Practitioner • ☁️ AWS AI Practitioner •  
-  🔜 Actualmente cursando <b>AWS Solutions Architect</b>
-</p>
+<div align="center">
 
----
+💡 *"Construyendo soluciones escalables en la nube"*
 
-### 📫 Contacto
-<p align="center">
-  ✉️ <a href="mailto:ignaciomelinc@gmail.com">ignaciomelinc@gmail.com</a> •  
-  <a href="https://linkedin.com/in/ignacio-melinc" target="blank">LinkedIn</a>
-</p>
+</div>
 
----
-
-### 🔧 Lenguajes y Herramientas
-<p align="center">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/></a>
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imelinc&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imelinc&show_icons=true&locale=en" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imelinc" alt="streak" />
-</p>
