@@ -36,7 +36,7 @@ Desarrollando aplicaciones cloud-native y explorando soluciones potenciadas por 
 ## 💻 Stack Tecnológico
 
 **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -55,6 +55,13 @@ Desarrollando aplicaciones cloud-native y explorando soluciones potenciadas por 
 **Bases de Datos**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F?style=flat&logo=mongodb&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-CC2927?style=flat&logo=redis&logoColor=black)
+![Cassandra](https://img.shields.io/badge/Cassandra-61DAFB?style=flat&logo=apache-cassandra&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=flat&logo=neo4j&logoColor=white)
+
+
+
 
 ## 📊 Estadísticas de GitHub
 
