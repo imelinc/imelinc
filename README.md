@@ -26,8 +26,6 @@ Desarrollando aplicaciones cloud-native y explorando soluciones potenciadas por 
 | **[Promptify](https://github.com/imelinc/Promptify)** | Herramienta de optimización de prompts de IA | Python, AI/ML |
 | **[AskMyDocs](https://github.com/imelinc/AskMyDocs)** | Sistema de preguntas y respuestas sobre documentos con búsqueda inteligente | Python, NLP |
 
-[→ Ver todos los proyectos](https://github.com/imelinc?tab=repositories)
-
 ## ☁️ Cursos AWS
 ✅ AWS Cloud Practitioner  
 ✅ AWS AI Practitioner  
