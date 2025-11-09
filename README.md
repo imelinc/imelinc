@@ -20,6 +20,7 @@ Desarrollando aplicaciones cloud-native y explorando soluciones potenciadas por 
 
 | Proyecto | Descripción | Stack Tecnológico |
 |---------|-------------|-------------------|
+| **[HelQ](https://github.com/imelinc/HelQ-WIP)** | Sistema integral de gestión para hospitales en AWS | React, AWS, MySQL, Redis |
 | **[NovaLex](https://github.com/imelinc/NovaLex)** | Chatbot con IA integrada y despliegue en AWS CloudFront | React, AWS Lambda, API Gateway |
 | **[DailyNewsBot](https://github.com/imelinc/DailyNewsBot)** | Sistema automatizado de agregación y entrega de noticias | Python, AWS |
 | **[Promptify](https://github.com/imelinc/Promptify)** | Herramienta de optimización de prompts de IA | Python, AI/ML |
