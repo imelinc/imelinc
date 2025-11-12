@@ -59,21 +59,6 @@ Desarrollando aplicaciones cloud-native y explorando soluciones potenciadas por 
 ![Cassandra](https://img.shields.io/badge/Cassandra-61DAFB?style=flat&logo=apache-cassandra&logoColor=black)
 ![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=flat&logo=neo4j&logoColor=white)
 
-
-
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs?username=imelinc&show_icons=true&locale=es&layout=compact&theme=default&hide_border=true)
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imelinc&show_icons=true&locale=es&theme=default&hide_border=true)
-
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=imelinc&theme=default&hide_border=true&locale=es)
-
-</div>
-
 ---
 
 <div align="center">
