@@ -30,7 +30,8 @@ Estudiante de Ingeniería Informática enfocado en Cloud Computing y IA. Especia
 
 
 ## 💻 Stack Tecnológico
-
+<div align="center">
+  
 **Cloud & Infraestructura**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
@@ -55,6 +56,8 @@ Estudiante de Ingeniería Informática enfocado en Cloud Computing y IA. Especia
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
