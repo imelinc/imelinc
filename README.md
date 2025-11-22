@@ -73,7 +73,6 @@ Selección de desarrollos enfocados en **SaaS**, **Automatización** e **IA**.
 <div align="center">
   <a href="https://github.com/imelinc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imelinc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imelinc&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
