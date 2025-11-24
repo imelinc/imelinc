@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://ignaciomelinc.dev">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/imelinc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
