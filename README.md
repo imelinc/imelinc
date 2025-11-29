@@ -71,7 +71,6 @@ Selección de desarrollos enfocados en **SaaS**, **Automatización** e **IA**.
 <div align="center">
   
   ### ¿Tienes un proyecto en mente?
-  Estoy siempre abierto a discutir arquitecturas serverless, integraciones de IA o nuevos desafíos de ingeniería.
   
   [**📩 Contáctame**](mailto:ignaciomelinc@gmail.com)
 
