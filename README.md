@@ -73,14 +73,17 @@ Capa de seguridad que se ubica entre un agente de IA y las herramientas que ejec
 
 ---
 
-### 📄 [AskMyDocs](https://github.com/imelinc/askmydocs)
-> Automatización de análisis de documentos con IA generativa.
+### 🕸️ [Hollownet](https://github.com/trykelink/hollownet) — Kelink
+> Honeypot SSH open-source con threat intelligence y detección de anomalías por ML.
 
-Solución serverless en AWS para automatizar flujos de trabajo con PDFs. Integra Amazon Bedrock para generación automática de resúmenes, con arquitectura basada en S3, Lambda e IAM.
+Sistema completo de captura y análisis de ataques SSH reales. Incluye honeypot Cowrie expuesto via Cloudflare Tunnel, collector FastAPI con enriquecimiento de IPs (GeoIP + AbuseIPDB), alertas Telegram en tiempo real, dashboard Grafana con provisioning automático y pipeline de ML (Isolation Forest) con reporte diario. 49 tests automatizados, CI con GitHub Actions.
 
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+[![CI](https://github.com/trykelink/hollownet/actions/workflows/ci.yml/badge.svg)](https://github.com/trykelink/hollownet/actions/workflows/ci.yml)
 
 ---
 
