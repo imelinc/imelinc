@@ -60,7 +60,7 @@ Me interesa el espacio donde la IA y la seguridad se cruzan: detección de promp
 
 ## 🚀 Proyectos
 
-### 🛡️ [Interceptr](https://github.com/imelinc/interceptr) — Kelink
+### 🛡️ [Interceptr](https://github.com/trykelink/interceptr) — Kelink
 > Middleware de seguridad open-source para agentes de IA.
 
 Capa de seguridad que se ubica entre un agente de IA y las herramientas que ejecuta. Implementa un motor de políticas en YAML con hot-reload, detección de prompt injection (regex offline + soporte LLM opcional), API REST, CLI completa y dashboard TUI. 55 tests automatizados, CI/CD con GitHub Actions y distribución via Docker Hub.
