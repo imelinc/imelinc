@@ -4,7 +4,6 @@
 ### Estudiante de Ingeniería Informática · Seguridad de IA · Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-melinc)
-[![Kelink](https://img.shields.io/badge/kelink.dev-000000?style=flat&logo=vercel&logoColor=white)](https://kelink.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ignaciomelinc@gmail.com)
 
 </div>
